@@ -1,0 +1,45 @@
+{
+  "_from": "git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git",
+  "_id": "musement-express-gateway-plugin-expression-file@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-+f5ECuI0gpkmf2JLr//LIr+yxwQ=",
+  "_location": "/musement-express-gateway-plugin-expression-file",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "musement-express-gateway-plugin-expression-file@git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git",
+    "name": "musement-express-gateway-plugin-expression-file",
+    "escapedName": "musement-express-gateway-plugin-expression-file",
+    "rawSpec": "git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git",
+    "saveSpec": "git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git",
+    "fetchSpec": "https://github.com/musement/musement-express-gateway-plugin-expression-file.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git#142e672dbf9b5b4ad0d978a321fddfbd8cbc1a43",
+  "_spec": "musement-express-gateway-plugin-expression-file@git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git",
+  "_where": "/Users/indiXolutions/Documents/Progetti/Musement/musement-express-gateway",
+  "author": {
+    "name": "Cristian Ronzio"
+  },
+  "bugs": {
+    "url": "https://github.com/musement/musement-express-gateway-plugin-expression-file/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Express Gateway plugin which loads expression policy from file",
+  "homepage": "https://github.com/musement/musement-express-gateway-plugin-expression-file#readme",
+  "license": "Apache-2.0",
+  "main": "manifest.js",
+  "name": "musement-express-gateway-plugin-expression-file",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musement/musement-express-gateway-plugin-expression-file.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
